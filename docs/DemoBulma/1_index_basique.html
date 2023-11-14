@@ -1,0 +1,65 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Programmation et Projet Encadré</title>
+  </head>
+
+  <body>
+    <section>
+      <div>
+        <div>
+          <h1>
+            Programmation et Projet Encadré
+            <br />
+            <br />
+            <img src="images/plurital-logo.jpg" />
+          </h1>
+        </div>
+        <nav>
+          <ul>
+            <li ><a href="index.html">Accueil</a></li>
+            <li><a href="scripts.html">Scripts</a></li>
+            <li><a href="4_tableaux.html">Tableaux</a></li>
+          </ul>
+        </nav>
+        <div >
+          <h2 >La vie multilingue des mots</h2>
+          <br />
+          <p>Le projet vise à étudier l'usage d'un mot à travers différentes langues et de les comparer.</p>
+          <div >
+            <h2 >Les étapes du projet</h2>
+            <br />
+            <p>Le projet se construit selon différentes étapes :</p>
+            <ol >
+              <li>choisir le mot ;</li>
+              <li>choisir les URL pour l'étude multilingue de ce mot ;</li>
+              <li>construire un corpus en récupérant le contenu textuel de ces pages ainsi que d'autres informations ;</li>
+              <li>construire des nuages de mots ;</li>
+              <li>construire des contextes autour de ces mots ;</li>
+              <li>envoyer ces données sur <a href="http://www.tal.univ-paris3.fr/trameur/iTrameur/">Le Trameur</a> pour étudier les cooccurrents spécifiques dans votre corpus.</li>
+            </ol>
+          </div>
+          <div >
+            <h2 >Le script de récupération de pages</h2>
+            <br />
+            <p>Ce script aura plusieurs objectifs, qu'on implémentera au fur et à mesure :</p>
+            <ol >
+              <li>lire une liste d'URL ;</li>
+              <li>pour chaque URL, vérifier si elle est valide ;</li>
+              <li>pour chaque URL valide, vérifier la réponse du serveur pour savoir si la page est accessible ;</li>
+              <li>pour chaque page accessible, récupérer son encodage ;</li>
+              <li>récupérer son contenu textuel et convertir au besoin en <emph>UTF-8</emph> ;</li>
+              <li>écrire dans un tableau différentes informations, dont :</li>
+              <ol >
+                <li>le code HTTP de retour ;</li>
+                <li>l'URL elle-même ;</li>
+                <li>le support (nombre d'occurrences) du mot cible dans la page ;</li>
+              </ol>
+            </ol>
+          </div>
+        </div>
+    </section>
+  </body>
+
+
+</html>

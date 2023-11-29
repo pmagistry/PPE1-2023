@@ -1,0 +1,638 @@
+<lang="fr">
+<page="fr-1">
+<text>
+     * 1Étymologie
+     * 2Composition d'un robot
+       (BUTTON) Afficher / masquer la sous-section Composition d'un robot
+          + 2.1Les capteurs
+--
+       (BUTTON) Afficher / masquer la sous-section Historique
+          + 3.1Aux origines de la robotique
+          + 3.2Les premiers robots
+          + 3.3Le premier robot citoyen
+     * 4Usages
+--
+
+   Cet article concerne les robots matériels. Pour les robots purement
+   logiciels, voir Bot informatique. Pour les appareils utilisés dans la
+--
+   modifier - modifier le code - modifier Wikidata Documentation du modèle
+   Atlas (2013), robot androïde de Boston Dynamics
+   Bras manipulateurs dans un laboratoire (2009)
+   NAO (2006), robot humanoïde éducatif d'Aldebaran Robotics
+   DER1 (2005), un actroïde d'accueil
+   Roomba (2002), un robot ménager
+
+   Un robot est un dispositif mécatronique (alliant mécanique,
+   électronique et informatique) conçu pour accomplir automatiquement des
+--
+   humaines. La conception de ces systèmes est l'objet d'une discipline
+   scientifique, branche de l'automatisme nommée robotique.
+
+   Le terme robot apparaît pour la première fois dans la pièce de théâtre
+   (science-fiction) R. U. R. (Rossum's Universal Robots), écrite en 1920
+   par l'auteur Karel Čapek^[1]. Le mot a été créé par son frère Josef à
+   partir du mot tchèque « robota » qui signifie « travail, besogne,
+   corvée ».
+
+   Les premiers robots industriels apparaissent, malgré leur coût élevé,
+   au début des années 1970. Ils sont destinés à exécuter certaines tâches
+--
+   l'évolution de l'électronique et de l'informatique permet de développer
+   des robots plus précis, plus rapides ou avec une meilleure autonomie.
+   Industriels, militaires ou spécialistes chirurgicaux rivalisent
+   d'inventivité pour mettre au point des robots assistants les aidant
+   dans la réalisation de tâches délicates ou dangereuses. Dans le même
+   temps apparaissent des robots à usages domestiques : aspirateur,
+   tondeuses, etc.
+
+   L'usage du terme « robot » s'est galvaudé pour prendre des sens plus
+   larges : automate distributeur, dispositif électro-mécanique de forme
+--
+
+   Le terme robot est issu des langues slaves et formé à partir du radical
+   rabot, rabota (работа en russe) qui signifie travail, corvée que l'on
+   retrouve dans le mot Rab (раб), esclave en russe. Ce radical présent
+   dans les autres langues slaves (ex. : travailleur = robotnik en
+   polonais, работнік en biélorusse, pracovník en tchèque) provient de
+--
+
+   Ainsi certains assurent que le mot robot fut d’abord utilisé dans la
+   courte pièce Opilec de Josef Čapek (The Drunkard), publiée dans la
+--
+   ce serait néanmoins inexact. Le mot employé dans Opilec est automate,
+   alors que c'est bien dans R.U.R. que le mot robot est apparu pour la
+   première fois.
+
+   Alors que les « robots » de Karel Čapek étaient des humains organiques
+   artificiels, le mot robot fut emprunté pour désigner des humains
+   « mécaniques ». Le terme androïde peut signifier l’un ou l’autre, alors
+--
+
+   Quant au terme robotique, il fut introduit dans la littérature en 1942
+   par Isaac Asimov dans son livre Runaround. Il y énonce les « trois
+   règles de la robotique » qui deviendront, par la suite, dans les œuvres
+   de sciences fiction les Trois lois de la robotique.
+
+Composition d'un robot[modifier | modifier le code]
+
+   Un robot est un assemblage complexe de pièces mécaniques,
+   électro-mécanique ou pièces électroniques. L'ensemble est piloté par
+--
+   artificielle suivant le degré de complexité des tâches à accomplir.
+   Lorsque les robots autonomes sont mobiles, ils possèdent également une
+   source d'énergie embarquée : généralement une batterie d'accumulateurs
+--
+     * Les sondeurs (ou télémètres) à ultrason ou Laser. Ces derniers sont
+       à la base des scanners laser permettant à l'unité centrale du robot
+       de prendre « conscience » de son environnement en 3D.
+     * Les caméras sont les yeux des robots. Il en faut au moins deux pour
+       permettre la vision en trois dimensions. Le traitement automatique
+--
+       réaliser.
+     * Les roues codeuses permettent au robot se déplaçant sur roues, des
+       mesures de déplacement précises en calculant les angles de rotation
+--
+   Les microprocesseurs ou les microcontrôleurs sont des éléments
+   essentiel du système de pilotage d'un robot. Ils permettent l'exécution
+   de séquences d'instruction ou de logiciels commandant la réalisation
+   d'actions ou de fonctions du robot. On trouve souvent, dans les robots
+   de petite taille, des composants à très faible consommation électrique,
+--
+   l'inconnu reste relativement prévisible : l'exemple déjà opérationnel
+   du robot aspirateur en est une bonne illustration : le logiciel qui
+   pilote cet appareil est en mesure de réagir aux obstacles qui peuvent
+--
+   coordonnées X-Y de son emplacement. Si ce buffet est déplacé ou
+   supprimé, le robot est capable de modifier son plan en conséquence et
+   de traiter une zone du sol qu'il ne prenait pas en compte jusqu'alors.
+--
+
+Aux origines de la robotique[modifier | modifier le code]
+
+--
+
+   Les ancêtres des robots sont les automates.
+
+--
+
+Les premiers robots[modifier | modifier le code]
+
+   Unimate est le premier robot industriel créé. Il fut intégré aux lignes
+   d'assemblage de General Motors en 1961^[7].
+
+   En 1970, le robot lunaire Lunokhod 1, envoyé par l'Union soviétique, a
+   voyagé sur une distance de 10 km et a transmis plus de 20 000
+--
+
+Le premier robot citoyen[modifier | modifier le code]
+
+   Le robot Sophia à l'Union Internationale des
+   Télécommunications, Genève, 2018
+
+   Le 25 octobre 2017, Sophia est le premier robot à avoir une
+   nationalité. Avec l'obtention de la nationalité saoudienne^[9]^,^[10],
+--
+
+   Article détaillé : Usage des robots.
+
+   La robotique possède de nombreux domaines d'application. Les robots ont
+   été installés dans les industries, ce qui permet de faire des tâches
+   répétitives avec une précision constante. À la suite de l'évolution des
+   techniques on retrouve des robots dans des secteurs de pointe tels que
+   le spatial, médecine, chez les militaires.
+--
+   la conquête du monde des hommes, la « Fonostra ». Il ne s'agit
+   toutefois pas d'un robot au sens propre du terme, puisque Galatée n'a
+   pas été conçue pour être autonome. Son autonomie est le fruit de la
+--
+
+   Le premier exemple d’un robot de forme humaine fut donné par Léonard de
+   Vinci en 1495. Ses notes à ce sujet recelaient des croquis montrant un
+--
+   probablement basé sur ses recherches anatomiques compilées dans l’homme
+   vitruvien. On ne sait pas s’il a tenté de construire ce robot.
+
+--
+   Lorsque la technologie arriva au point où l’on put préfigurer des
+   créatures mécaniques, les réponses littéraires au concept de robot
+   suscitèrent la crainte que les humains soient remplacés par leurs
+--
+   créature de Frankenstein est un amas de tissu organique, mû par
+   l'apport ponctuel de puissance électrique (la foudre). Le robot n'est
+   pas encore apparu comme tel.
+--
+   (1809) raconte l’histoire d’un homme qui désirait se transformer en
+   robot par amour pour sa machine à coudre, et Steam Man of the Prairies
+   d’Edward S. Ellis (1865) exprime la fascination américaine de
+   l’industrialisation. La littérature concernant la robotique connut des
+   sommets notables avec l’Homme électrique de Luis Senarens en 1885.
+--
+   En France, le roman L'Ève future de Villiers de L'isle-Adam en 1883
+   tourne autour de la figure moderne du robot : création métallique,
+   mobile par électricité, et autonome. Le héros et inventeur de la
+--
+   laissent apparaître dans Le_Magicien_d'Oz un bûcheron de fer-blanc
+   comme un robot.
+
+--
+
+   Le mot robot est créé par Karel Čapek, dans sa pièce de théâtre : R. U.
+   R. (Rossum's Universal Robots), mise en scène à Prague en 1921. Dans
+--
+   sortent des serviteurs de métal, pour être envoyés partout dans le
+   monde. Les robots se révolteront, prenant le contrôle de leur chaîne de
+   montage, et chercheront à construire toujours plus de robots.
+
+--
+   La littérature de science-fiction ou de bande dessinée autour du thème
+   des robots est foisonnante. Un certain nombre d'auteurs
+   (essentiellement de science-fiction, et parfois ayant une réelle
+   connaissance scientifique du sujet tel Isaac Asimov) ont donné une
+   place particulière aux robots dans leurs ouvrages. Isaac Asimov est le
+   premier à utiliser le mot robotique en 1941. Dans ses nombreux romans
+   où apparaissent des robots (regroupés dans Le Grand Livre des robots),
+   il s'intéressa tout particulièrement à leur interaction avec la société
+--
+     * Isaac Asimov (Qui est également l'inventeur de la notion de
+       robotique avant même que cette science ne soit reconnue)
+          + Les Robots, 1967 ((en) I, Robot, 1950), trad. Pierre Billon
+--
+            2-277-12453-2)
+          + Un défilé de robots, 1967 ((en) The Rest of the Robots, 1964),
+            trad. Pierre Billon (ISBN 978-2-277-12542-6 et 2-290-31125-1)
+          + Nous les robots, 1982 ((en) The Complete robot, 1982)
+            (ISBN 2-258-03291-1)
+--
+            Guide to the Galaxy, 1979), trad. Jean Bonnefoy, avec Marvin,
+            son robot dépressif (ISBN 2-207-30340-3).
+     * Philip K. Dick avec Le Grand O, James P. Crow, Service avant achat,
+--
+
+   Robby le robot sur l'affiche de Planète interdite (1956)
+     * Stanislas Lem
+          + Le Bréviaire des robots, Denoël, coll. Présence du futur n°
+            96, 1967 ((pl) , 1961), trad. Halina Sadowska
+--
+          + Contes inoxydables, Denoël, coll. Présence du futur n° 330,
+            1981 ((pl) Bajki robotów, 1964), trad. Dominique Sila
+            (ISBN 2-207-50330-5)
+--
+   The Master Mystery (1920)
+   Article détaillé : Liste des robots au cinéma.
+
+   Les robots sont présents dans de nombreuses œuvres cinématographiques.
+   Ces robots peuvent être des ennemis de l'Homme (par exemple dans
+   Terminator), parfois trop intelligents pour rester des serviteurs
+   (2001, l'Odyssée de l'espace, Blade Runner). Ces robots peuvent
+   pourtant aussi être foncièrement bons, comme le sont R2-D2 et C-3PO
+   dans Star Wars (1977), ou les robots de L'Homme bicentenaire et I,
+   Robot (deux films adaptés de nouvelles d'Isaac Asimov).
+--
+
+   La robotique dans Robots (film, 1988) (en).
+
+   Dans Runaway : L'Évadé du futur il y a un futur avec des robots.
+
+   Le robot géant dans The Mechanical Man (en).
+
+   Des robots sont présents comme le ED-209 dans RoboCop.
+
+--
+
+   Des robots deviennent incontrôlable dans Shopping (film, 1986).
+
+--
+
+   Les courts métrage de robots dans Robot Carnival.
+
+--
+
+   Plusieurs séries télévisées comportent un certain nombre de robots ou
+   d'androïdes. On peut ainsi citer les Réplicateurs de Stargate SG-1, les
+--
+   encore les Cylons de Battlestar Galactica. Dans chaque univers, le
+   robot a une place différente. Ainsi, les hubots de Real Humans ont
+   découvert la notion de liberté de pensée et veulent s'affranchir des
+   humains, tandis que les robots de la série Futurama vivent au sein même
+   de leur société sans relation d'infériorité.
+
+   Il existe aussi des mangas traitant le sujet (Astro, le petit robot,
+   Dragon Ball Z, Medabots) ainsi que de nombreux jeux vidéo (Megaman,
+--
+
+   Des robots qui vivent avec des humains dans Cubix.
+
+   Dans Zentrix, il y a des robots artificiels dans les combats.
+
+   Dans Mon robot et moi, il y a des écoliers avec des robots.
+
+   Dans Anatane et les enfants d'Okura, les robots enlèvent des jeunes
+   hommes masculins pour les zombifier soit les changer en criminel de
+--
+
+   Des robots Faro dans le jeu vidéo Horizon Zero Dawn.
+
+--
+
+   Dans Le Maître des bots, il y a des robots intelligents comme des
+   humains.
+
+   Un robot géant dans Goldorak.
+
+   Un robot géant dans Mazinger Z.
+
+   Des robots géants dans Gundam Wing.
+
+   Dans Chair de poule (collection), "La Punition de la mort" avec des
+   doubles robotiques.
+
+   John le robot dans "Voyage sur la planète préhistorique".
+
+   Elias le robot dans "Starcrash : Le Choc des étoiles".
+
+   Une série culte japonaise avec des robots Ganbare!! Robocon (en).
+
+   Un robot géant dans Giant Robo (en).
+
+--
+       1950-1954
+    3. ↑ Guillaume Narguet, « Le robot a fêté ses 85 ans ! », sur Radio
+       Prague International, 4 février 2006 (consulté le 20 juillet 2020)
+    4. ↑ Jaroslav Veis, « Science-fiction. Il y a cent ans naissait le
+       robot », sur Courrier international, 29 mars 2020 (consulté le 20
+       juillet 2020)
+    5. ↑ Agnès Guillot, « Histoire de la robotique : des automates aux
+       premiers robots », sur Futura (consulté le 30 novembre 2020)
+    6. ↑ Jean-Claude Heudin, Les Créatures artificielles : des automates
+--
+    8. ↑ (en) « Luna - Exploring the Moon » sur zarya.info
+    9. ↑ (en) « Saudi Arabia gives citizenship to a talking robot named
+       Sophia who may be too secular to be Saudi », Newsweek,‎ 26 octobre
+--
+   10. ↑ (en) Taylor Hatmaker, « Saudi Arabia bestows citizenship on a
+       robot named Sophia », TechCrunch,‎ 26 octobre 2017 (lire en ligne,
+       consulté le 29 octobre 2017)
+   11. ↑ (en-US) Sam Barsanti, « Saudi Arabia takes terrifying step to the
+       future by granting a robot citizenship », The A.V. Club,‎ 26
+       octobre 2017 (lire en ligne, consulté le 29 octobre 2017)
+--
+     * Robot, sur Wikimedia Commons
+     * robot, sur le Wiktionnaire (thésaurus)
+
+--
+
+     * Isaac, Asimov, I, robot, Bantam Books, 2004, 304 p.
+       (ISBN 978-0-553-90033-0 et 0553900331, OCLC 233705973, lire en
+       ligne)
+     * Laurence Devillers, Des robots et des hommes : mythes, fantasmes et
+       réalité, Paris, Plon, 2017, 236 p. (ISBN 978-2-259-25227-0 et
+       2259252273, OCLC 975286502)
+     * (en) Ritter, Helge, Human centered robot systems : cognition,
+       interaction, technology, Berlin/Heidelberg, Springer, 2009, 217 p.
+--
+       ligne)
+     * Serge Tisseron, Le jour où mon robot m'aimera : vers l'empathie
+       artificielle, Albin Michel, 2015, 208 p. (ISBN 978-2-226-38232-0 et
+--
+   contenu avec précaution. Améliorez-le ou discutez-en. (janvier 2022)
+     * Liste des robots commerciaux ou de laboratoire
+     * 2-XL (en)
+     * 3D scanning (en)
+     * Adaptable robotics (en)
+     * ABB (entreprise)
+--
+     * Affeto
+     * Aiko (robotique)
+     * Aibo
+--
+     * ASIMO
+     * Atlas (robot)
+     * Automate anthropomorphe
+     * Acma (robotique)
+     * AUV
+--
+     * Association for the Advancement of Artificial Intelligence
+     * Art robotique
+     * AI control problem (en)
+--
+     * Automated retail (en)
+     * Aérobot
+     * Biomimétique
+--
+     * Brown, Boveri &amp; Cie
+     * BEAM (robotique)
+     * Biomécatronique
+--
+     * Bras manipulateur
+     * Bio-inspired robotics (en)
+     * BionicKangaroo (en)
+     * Biorobotics (en)
+     * Budstar
+--
+     * BB-8
+     * BEAM (robotique)
+     * C-3PO
+     * Cog (robotique)
+     * Comau
+     * Compétitions de robotique
+     * Cybernétique
+     * Cyborg
+     * CIMON (robot)
+     * Claytronics
+--
+     * Cobotique
+     * Commande des robots
+     * Chômage technologique
+     * Chronologie de la robotique
+     * Cartesian coordinate robot (en)
+     * Cognitive robotics (en)
+     * Companion robot (en)
+     * Competitions and prizes in artificial intelligence (en)
+--
+     * Dispositif haptique
+     * Disability robot (en)
+     * Developmental robotics (en)
+     * Droid (Star Wars) (en)
+     * Developmental robotics (en)
+     * Exotec Solutions
+--
+     * ElektroElektro
+     * Evolutionary robotics (en)
+     * Energetically Autonomous Tactical Robot (en)
+     * Entertainment robot (en)
+     * Éthique de l'intelligence artificielle
+--
+     * Fanuc GE CNC Europe
+     * Fedor (robot)
+     * Fenêtre dynamique
+     * Festival de robotique
+     * Fétichisme du robot
+     * Fédération internationale de la robotique
+     * For Inspiration and Recognition of Science and Technology (en)
+--
+     * Golem
+     * Glossary of robotics (en)
+     * Geography of robotics (en)
+     * HRP-2
+--
+     * Humanoïde
+     * Humanoid robot (en)
+     * Histoires de robots
+     * ISO 8373 (en)
+--
+     * Instrument intelligent
+     * Interaction homme-robot
+     * Isaac Asimov
+     * iRobot
+     * Index of robotics articles (en)
+     * Juggling robot (en)
+     * KUKA (langage de programmation)
+     * Locomotion robotique
+     * Intelligence artificielle
+     * Irobot France (ex Robopolis)
+     * Justin (robot)
+     * Keepon
+--
+     * Lovotique
+     * Locomotion robotique
+     * Legged robot (en)
+     * List of fictional robots and androids (en)
+     * Lely Juno family (en)
+     * Liquid handling robot (en)
+     * Laws of robotics (en)
+     * Mécatronique
+     * Micro-robot
+     * Murata boy
+     * Microrobotique
+     * Modélisation des robots
+     * Mobile robot
+     * Michael J. Freeman (en)
+     * Naïo Technologies
+     * Nanorobot et Nanorobotique
+     * NAO (robotique)
+     * NBH-1
+     * Neuromorphic engineering (en)
+     * Ocean One (robot)
+     * Odométrie
+     * Open-source robotics (en)
+     * Outline of robotics (en)
+     * Paro (robot)
+     * Plen
+     * Pepper (robot)
+     * Planète Robots
+--
+     * Robot sous-marin autonome
+     * Romeo (robot)
+     * Roblog
+--
+     * SoftBank Robotics
+     * Sophia (robot)
+     * Stäubli International AG
+--
+     * Scooba
+     * Self-reconfiguring modular robot (en)
+     * SCARA (en)
+     * Système automatique de transport
+     * Trois lois de la robotique
+     * Titan le robot
+     * TOPIO
+     * Taxe sur les robots
+     * Thymio
+--
+     * TOSY (en)
+     * Telerobotics (en)
+     * Téléopération
+--
+     * UnimationUnimation
+     * Ubiquitous robot (en)
+     * Unimate
+     * Valkyrie (robot)
+     * Violet (entreprise)
+--
+     * Webots
+     * Wake-up robot problem (en)
+     * Wu Yulu (en)
+--
+     * Actualité en Robotique et tutoriels : Zone Robotique
+     * Les recherches en robotique au CNRS
+     * Vidéo : Conférence sur les Robots - Futuroscope - 22 décembre 2012
+     * Le robot a fêté ses 85 ans ! sur le site de Radio Prague
+     * https://video.vice.com/en_us/video/slutever-harmony-the-sex-robot/5
+       aa6edcbf1cdb36f616c77a2%3Fjwsource%3Dcl
+--
+       3061.html
+     * https://edition.cnn.com/2019/11/08/tech/mit-cheetah-robot-herd/inde
+       x.html
+     * https://www.cs.cmu.edu/~coral-downloads/legged/movies/index.html
+     * https://www.newsbytesapp.com/news/science/watch-mit-robots-play-soc
+       cer-and-trip-excitedly/story
+     * https://techcrunch.com/2019/11/09/watch-mits-mini-cheetah-robots-fr
+       olic-fall-flip-and-play-soccer-together/?guce_referrer=aHR0cHM6Ly93
+--
+       4e7Bfco0s_qyg&amp;guccounter=2
+     * https://abcnews.go.com/US/mits-adorable-back-flipping-robots-enjoy-
+       frolicking-autumn/story?id=66853771
+--
+     * https://www.programme-tv.net/programme/culture-infos/r1549459761-la
+       -science-face-au-terrorisme/16230392-la-robotique/
+     * https://objetconnecte.net/terrorisme-daesh-robots-futur/
+     * https://blog.francetvinfo.fr/bureau-londres/2017/12/07/des-robots-t
+       ueurs-seront-bientot-entre-les-mains-des-terroristes-selon-la-chamb
+       re-des-lords.html
+     * https://www.lesechos.fr/2015/07/robots-tueurs-la-mise-en-garde-des-
+       grands-noms-de-la-tech-268609
+     * https://www.20minutes.fr/high-tech/1835379-20160427-chine-devoile-a
+       nbot-premier-robot-anti-terroriste-anti-emeute
+     * https://www.allocine.fr/tag-1245/films/
+     * https://www.senscritique.com/top/resultats/Les_meilleurs_films_avec
+       _des_robots/785910
+     * https://www.senscritique.com/liste/Des_robots_plein_de_robots/11380
+       91
+     * https://www.senscritique.com/liste/Les_Robots_au_cinema/141687
+     * https://www.senscritique.com/liste/Le_robot_au_cinema/539769
+     * https://www.cinetrafic.fr/top/film/robot
+     * https://www.cinetrafic.fr/liste-film/1343/1/les-robots-et-les-andro
+       ides
+     * https://www.tomsguide.fr/30-robots-qui-ont-marque-lhistoire-du-cine
+       ma/
+     * https://www.vodkaster.com/listes-de-films/les-robots-au-cinema/7320
+       69
+     * https://www.liberation.fr/cinema/2015/07/29/cinq-films-ou-les-robot
+       s-se-retournent-contre-les-hommes_1355549/
+--
+
+     * icône décorative Portail de la robotique
+     * icône décorative Portail de la science-fiction
+</text>
+</page> §
+<page="fr-2">
+<text>
+
+   Un robot de cuisine ou robot ménager ou robot multifonction, parfois
+   abrégé simplement en « robot », est un appareil électrique de cuisine
+   utilisé pour faciliter diverses tâches répétitives dans le processus de
+--
+
+   Les robots de cuisine sont semblables aux mixeurs à bien des égards. La
+   principale différence est que les robots de cuisine disposent de lames
+   interchangeables au lieu d'une lame fixe. En outre, leurs récipients
+--
+   aliments solides ou semi-solides (découpe de légumes) habituellement
+   travaillées par un robot de cuisine. Le mixeur est lui spécialisé dans
+   les aliments sous forme liquide (jus). Les robots multifonction
+   permettent de pétrir, battre les blancs en neige, râper, émincer,
+--
+
+   Le premier robot ménager à destination des professionnels fut un bol
+   équipé de lames rotatives à sa base, lancé par Pierre Verdun en
+--
+   Pierre Verdun fit évoluer son appareil et créa Robot-Coupe, compagnie
+   destinée à produire le premier robot de cuisine commercial.
+
+   Le premier robot ménager à destination des particuliers fut lancé en
+   1971, par l'entreprise Magimix. Il s'agit de la version grand public du
+   premier robot culinaire créé dès 1960 par Pierre Verdun auquel avait
+   été ajouté à la fin des années 1960 un puissant moteur asynchrone.
+
+   Le robot Thermomix TM 2200 fut également lancé en 1971. Ce modèle fut
+   par la suite élaboré et amélioré afin d'atteindre de meilleures
+   performances. Dernièrement, Vorwerk (la marque créatrice de Thermomix)
+   à lancé le dernier modèle de la gamme, le Thermomix TM6, un robot ultra
+   performant capable d'aller concurrencer les meilleurs robots cuiseurs
+   tels que le Magimix Cook Expert ou encore le Moulinex Companion.
+--
+   En 1973, Carl Sontheimer introduisit le Magimix 1800 en Amérique du
+   Nord sous la marque Cuisinart, en tant que premier robot de cuisine
+   domestique des États-Unis.
+--
+
+   Les robots Magimix sont toujours entièrement fabriqués en France (à
+   Montceau-les-Mines en Bourgogne). Parmi ces nombreux modèles ont
+--
+   En France on trouve notamment plusieurs marques assez connues telles
+   que KitchenAid qui a vendu ses robots à plusieurs millions
+   d'exemplaires^[2]. La marque française Moulinex est également une
+--
+       1994, Fixot, 1993 (ISBN 978-2876452008), p. 129.
+    2. ↑ « Choisir et acheter le meilleur robot pâtissier. Tests, avis et
+       comparatifs », sur avis-robot-patissier.com (consulté le 7 octobre
+       2021).
+    3. ↑ « Quel est le meilleur Cookeo | Comparatif 2021 », sur
+       mon-robotcuiseur.fr, 21 août 2021 (consulté le 21 novembre 2021).
+
+</text>
+</page> §
+<page="fr-3">
+<text>
+   utilisé par un humain, d'où le terme « bot », qui est la contraction
+   par aphérèse de « robot ».
+
+--
+   répétitives. Ils sont également utiles lorsque la rapidité d'action est
+   un critère important, avec par exemple les robots de jeu, les robots
+   d'enchères, mais aussi pour simuler des réactions humaines, comme avec
+--
+
+   Les robots d'indexation, tels que le Googlebot, sont la principale
+   utilisation des robots informatiques. Ils parcourent le web en indexant
+   les pages pour le compte de moteurs de recherche.
+--
+   Il existe également des bots d'aide à l'administration de serveurs de
+   jeux vidéo, tel que le Big Brother Bot. Ces robots ne constituent en
+   aucun cas des joueurs artificiels.
+--
+   Italie) ont proposé l'idée que l'humanité entre dans une nouvelle ère :
+   le « Robocène » (où les robots sont physiques, mais aussi des bots
+   informatiques)^[5]. La dénomination de « Bad Bot » a été proposée^[5]
+--
+
+   Les « robots de chat » (chatbots) sont utilisés quotidiennement.
+
+--
+
+     * Automatisation des processus robotisés
+     * Botnet
+</text>
+</page> §
+</lang>

@@ -1,0 +1,8 @@
+<lang="en">
+<page="en-1">
+<text>Ici, le contenu du fichier en-1, avec une balise : &lt;text&gt;.</text>
+</page> §
+<page="en-2">
+<text>Là, le contenu du fichier en-2, sans balise.</text>
+</page> §
+</lang>

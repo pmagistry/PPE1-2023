@@ -1,0 +1,2018 @@
+<lang="fr">
+<page="fr-1">
+<text>
+   #alternate Modifier Wikipédia (fr)
+
+   Aller au contenu
+   [ ]
+
+   Afficher / masquer la barre latérale Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________ Rechercher Lire
+
+     * Créer un compte
+
+   [ ] Outils personnels
+   Créer un compte
+   Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Discussion
+     * Contributions
+
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+     * Faire un don
+
+   Outils
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Élément Wikidata
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l’article.
+   Aller en haut.
+   [ ]
+
+   Sommaire (BUTTON) move to sidebar (BUTTON) masquer
+     * Début
+     * 1Étymologie
+     * 2Composition d'un robot
+       (BUTTON) Afficher / masquer la sous-section Composition d'un robot
+          + 2.1Les capteurs
+          + 2.2Les circuits électroniques
+          + 2.3Les actionneurs
+          + 2.4Adaptation à son environnement
+     * 3Historique
+       (BUTTON) Afficher / masquer la sous-section Historique
+          + 3.1Aux origines de la robotique
+          + 3.2Les premiers robots
+          + 3.3Le premier robot citoyen
+     * 4Usages
+     * 5Dans la culture
+       (BUTTON) Afficher / masquer la sous-section Dans la culture
+          + 5.1Dans l'Antiquité
+          + 5.2À la Renaissance
+          + 5.3Au XIX^e siècle
+          + 5.4Au XX^e siècle
+               o 5.4.1En littérature
+               o 5.4.2Au cinéma
+               o 5.4.3Dans la culture populaire
+     * 6Notes et références
+     * 7Annexes
+       (BUTTON) Afficher / masquer la sous-section Annexes
+          + 7.1Bibliographie
+          + 7.2Articles connexes
+          + 7.3Liens externes
+
+   Basculer la table des matières
+
+Robot
+
+   [ ] 123 langues
+     * Afrikaans
+     * Alemannisch
+     * አማርኛ
+     * Aragonés
+     * Ænglisc
+     * العربية
+     * অসমীয়া
+     * Asturianu
+     * Azərbaycanca
+     * تۆرکجه
+     * Башҡортса
+     * Boarisch
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * বাংলা
+     * Brezhoneg
+     * Bosanski
+     * Català
+     * Нохчийн
+     * ᏣᎳᎩ
+     * کوردی
+     * Čeština
+     * Чӑвашла
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Zazaki
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * Estremeñu
+     * فارسی
+     * Suomi
+     * Võro
+     * Frysk
+     * 贛語
+     * Kriyòl gwiyannen
+     * Galego
+     * Hausa
+     * עברית
+     * हिन्दी
+     * Fiji Hindi
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Interlingua
+     * Bahasa Indonesia
+     * Ilokano
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Patois
+     * Jawa
+     * ქართული
+     * Gĩkũyũ
+     * Қазақша
+     * ಕನ್ನಡ
+     * 한국어
+     * Kurdî
+     * Кыргызча
+     * Latina
+     * Lombard
+     * ລາວ
+     * Lietuvių
+     * Latviešu
+     * Minangkabau
+     * Македонски
+     * മലയാളം
+     * मराठी
+     * Bahasa Melayu
+     * မြန်မာဘာသာ
+     * नेपाली
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Nouormand
+     * Occitan
+     * ਪੰਜਾਬੀ
+     * Picard
+     * Polski
+     * پنجابی
+     * پښتو
+     * Português
+     * Romani čhib
+     * Română
+     * Русский
+     * ᱥᱟᱱᱛᱟᱲᱤ
+     * Sicilianu
+     * Scots
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * Soomaaliga
+     * Shqip
+     * Српски / srpski
+     * Sunda
+     * Svenska
+     * Kiswahili
+     * தமிழ்
+     * ไทย
+     * Türkçe
+     * Татарча/tatarça
+     * ئۇيغۇرچە / Uyghurche
+     * Українська
+     * اردو
+     * Oʻzbekcha/ўзбекча
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * მარგალური
+     * ייִדיש
+     * 中文
+     * 文言
+     * Bân-lâm-gú
+     * 粵語
+     * IsiZulu
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Plus
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Robot (homonymie).
+   Page d’aide sur l’homonymie
+
+   Cet article concerne les robots matériels. Pour les robots purement
+   logiciels, voir Bot informatique. Pour les appareils utilisés dans la
+   cuisine, voir Robot de cuisine.
+   Robot
+   Honda P1 Fan Fun Lab.jpg
+   Type
+   Creatura, machine, entité artificiellement intelligente (d), agent (d)
+   Voir et modifier les données sur Wikidata
+
+   CAPTION: Caractéristiques
+
+   Composé de
+   Actionneur, source d'énergie, ordinateur, capteur Voir et modifier les
+   données sur Wikidata
+
+   modifier - modifier le code - modifier Wikidata Documentation du modèle
+   Atlas (2013), robot androïde de Boston Dynamics
+   Bras manipulateurs dans un laboratoire (2009)
+   NAO (2006), robot humanoïde éducatif d'Aldebaran Robotics
+   DER1 (2005), un actroïde d'accueil
+   Roomba (2002), un robot ménager
+
+   Un robot est un dispositif mécatronique (alliant mécanique,
+   électronique et informatique) conçu pour accomplir automatiquement des
+   tâches imitant ou reproduisant, dans un domaine précis, des actions
+   humaines. La conception de ces systèmes est l'objet d'une discipline
+   scientifique, branche de l'automatisme nommée robotique.
+
+   Le terme robot apparaît pour la première fois dans la pièce de théâtre
+   (science-fiction) R. U. R. (Rossum's Universal Robots), écrite en 1920
+   par l'auteur Karel Čapek^[1]. Le mot a été créé par son frère Josef à
+   partir du mot tchèque « robota » qui signifie « travail, besogne,
+   corvée ».
+
+   Les premiers robots industriels apparaissent, malgré leur coût élevé,
+   au début des années 1970. Ils sont destinés à exécuter certaines tâches
+   répétitives, éprouvantes ou toxiques pour un opérateur humain :
+   peinture ou soudage des carrosseries automobiles. Aujourd'hui,
+   l'évolution de l'électronique et de l'informatique permet de développer
+   des robots plus précis, plus rapides ou avec une meilleure autonomie.
+   Industriels, militaires ou spécialistes chirurgicaux rivalisent
+   d'inventivité pour mettre au point des robots assistants les aidant
+   dans la réalisation de tâches délicates ou dangereuses. Dans le même
+   temps apparaissent des robots à usages domestiques : aspirateur,
+   tondeuses, etc.
+
+   L'usage du terme « robot » s'est galvaudé pour prendre des sens plus
+   larges : automate distributeur, dispositif électro-mécanique de forme
+   humaine ou animale, logiciel servant d'adversaire sur les plateformes
+   de jeu, bot informatique.
+
+Étymologie[modifier | modifier le code]
+
+   Le terme robot est issu des langues slaves et formé à partir du radical
+   rabot, rabota (работа en russe) qui signifie travail, corvée que l'on
+   retrouve dans le mot Rab (раб), esclave en russe. Ce radical présent
+   dans les autres langues slaves (ex. : travailleur = robotnik en
+   polonais, работнік en biélorusse, pracovník en tchèque) provient de
+   l'indo-européen *orbho- qui a également donné naissance au gotique
+   arbais signifiant besoin, nécessité, lui-même source de l'allemand
+   Arbeit, travail^[2].
+
+   Il fut initialement utilisé par l’écrivain tchécoslovaque Karel Čapek
+   dans sa pièce de théâtre R. U. R. (Rossum's Universal Robots), écrite
+   en 1920. Cette pièce fut jouée pour la première fois en public au
+   Théâtre national à Prague le 25 janvier 1921^[3]. Bien que Karel Čapek
+   soit souvent considéré comme l’inventeur du mot, il a lui-même désigné
+   son frère Josef, peintre et écrivain, comme étant l’inventeur réel du
+   terme^[4].
+
+   Ainsi certains assurent que le mot robot fut d’abord utilisé dans la
+   courte pièce Opilec de Josef Čapek (The Drunkard), publiée dans la
+   collection Lelio en 1917. Selon la Société des frères Čapek à Prague,
+   ce serait néanmoins inexact. Le mot employé dans Opilec est automate,
+   alors que c'est bien dans R.U.R. que le mot robot est apparu pour la
+   première fois.
+
+   Alors que les « robots » de Karel Čapek étaient des humains organiques
+   artificiels, le mot robot fut emprunté pour désigner des humains
+   « mécaniques ». Le terme androïde peut signifier l’un ou l’autre, alors
+   que le terme cyborg (« organisme cybernétique » ou « homme bionique »)
+   désigne une créature faite de parties organiques et artificielles.
+
+   Quant au terme robotique, il fut introduit dans la littérature en 1942
+   par Isaac Asimov dans son livre Runaround. Il y énonce les « trois
+   règles de la robotique » qui deviendront, par la suite, dans les œuvres
+   de sciences fiction les Trois lois de la robotique.
+
+Composition d'un robot[modifier | modifier le code]
+
+   Un robot est un assemblage complexe de pièces mécaniques,
+   électro-mécanique ou pièces électroniques. L'ensemble est piloté par
+   une unité centrale appelée « système embarqué » : une simple séquence
+   d'automatisme, un logiciel informatique ou une intelligence
+   artificielle suivant le degré de complexité des tâches à accomplir.
+   Lorsque les robots autonomes sont mobiles, ils possèdent également une
+   source d'énergie embarquée : généralement une batterie d'accumulateurs
+   électriques ou un générateur électrique couplé à un moteur à essence
+   pour les plus énergivore.
+
+Les capteurs[modifier | modifier le code]
+
+   Les principales sortes de capteurs sont :
+     * Les sondeurs (ou télémètres) à ultrason ou Laser. Ces derniers sont
+       à la base des scanners laser permettant à l'unité centrale du robot
+       de prendre « conscience » de son environnement en 3D.
+     * Les caméras sont les yeux des robots. Il en faut au moins deux pour
+       permettre la vision en trois dimensions. Le traitement automatique
+       des images pour y détecter les formes, les objets, voire les
+       visages, demande en général un traitement matériel car les
+       microprocesseurs embarqués ne sont pas assez puissants pour le
+       réaliser.
+     * Les roues codeuses permettent au robot se déplaçant sur roues, des
+       mesures de déplacement précises en calculant les angles de rotation
+       (information proprioceptive).
+
+Les circuits électroniques[modifier | modifier le code]
+
+   Les microprocesseurs ou les microcontrôleurs sont des éléments
+   essentiel du système de pilotage d'un robot. Ils permettent l'exécution
+   de séquences d'instruction ou de logiciels commandant la réalisation
+   d'actions ou de fonctions du robot. On trouve souvent, dans les robots
+   de petite taille, des composants à très faible consommation électrique,
+   car ils ne peuvent emporter que des sources d'énergie limitées.
+
+Les actionneurs[modifier | modifier le code]
+
+   Les actionneurs les plus communs sont :
+     * des moteurs électriques rotatifs, qui sont fréquemment associés à
+       des réducteurs mécaniques à engrenages.
+     * des vérins pneumatique, plus rarement hydraulique, alimentés par
+       une pompe et permettant des actions toniques.
+
+   Un actionneur est le constituant d'un système mécanique (exemple :
+   bras, patte, roue motrice…) réalisant une action motrice suivant un
+   degré de liberté. Il anime les interfaces haptiques réalisant les
+   actions de saisies d'objets dans les applications de télémanipulation.
+
+Adaptation à son environnement[modifier | modifier le code]
+
+   Article connexe : Intelligence artificielle.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus.
+
+   Le contenu de cet article ou de cette section est peut-être sujet à
+   caution et doit absolument être sourcé (novembre 2020).
+
+   Si vous connaissez le sujet dont traite l'article, merci de le
+   reprendre à partir de sources pertinentes en utilisant notamment les
+   notes de fin de page. Vous pouvez également laisser un mot
+   d'explication en page de discussion (modifier l'article).
+
+   Une certaine capacité d'adaptation à un environnement inconnu peut,
+   dans les systèmes semi-autonomes actuels, être assurée pourvu que
+   l'inconnu reste relativement prévisible : l'exemple déjà opérationnel
+   du robot aspirateur en est une bonne illustration : le logiciel qui
+   pilote cet appareil est en mesure de réagir aux obstacles qui peuvent
+   se rencontrer dans une habitation, de les contourner, de les mémoriser.
+   Il sauvegarde le plan de l'appartement et peut le modifier en cas de
+   besoin. Il retourne en fin de programme se connecter à son chargeur. Il
+   doit donc fournir une réponse correcte au plus grand nombre possible de
+   stimulations, qui sont autant de données entrées, non par un opérateur,
+   mais par l'environnement.
+
+   L'autonomie suppose que le programme d'instructions prévoit la survenue
+   de certains événements, puis la ou les réactions appropriées à ceux-ci.
+   Lorsque l'aspirateur évite un buffet parce qu'il sait que le buffet est
+   là, il exécute un programme intégrant ce buffet, par exemple les
+   coordonnées X-Y de son emplacement. Si ce buffet est déplacé ou
+   supprimé, le robot est capable de modifier son plan en conséquence et
+   de traiter une zone du sol qu'il ne prenait pas en compte jusqu'alors.
+
+Historique[modifier | modifier le code]
+
+Aux origines de la robotique[modifier | modifier le code]
+
+   Articles détaillés : Automate et Jacques de Vaucanson.
+
+   Les ancêtres des robots sont les automates.
+
+   Le premier automate est le pigeon volant d'Archytas de Tarente aux
+   alentours de 400 av.J.-C^[5]. Un automate très évolué fut présenté par
+   Jacques de Vaucanson en 1738 : il représentait un homme jouant d’un
+   instrument de musique à vent^[6]. Jacques de Vaucanson créa également
+   un automate représentant un canard mangeant et refoulant sa nourriture
+   après ingestion de cette dernière.
+
+Les premiers robots[modifier | modifier le code]
+
+   Unimate est le premier robot industriel créé. Il fut intégré aux lignes
+   d'assemblage de General Motors en 1961^[7].
+
+   En 1970, le robot lunaire Lunokhod 1, envoyé par l'Union soviétique, a
+   voyagé sur une distance de 10 km et a transmis plus de 20 000
+   images^[8].
+
+Le premier robot citoyen[modifier | modifier le code]
+
+   Le robot Sophia à l'Union Internationale des
+   Télécommunications, Genève, 2018
+
+   Le 25 octobre 2017, Sophia est le premier robot à avoir une
+   nationalité. Avec l'obtention de la nationalité saoudienne^[9]^,^[10],
+   cela a suscité la controverse, car il n'est pas évident de savoir si
+   cela implique que Sophia peut voter ou se marier, ou si un arrêt
+   délibéré du système peut être considéré comme un meurtre^[11].
+
+Usages[modifier | modifier le code]
+
+   Article détaillé : Usage des robots.
+
+   La robotique possède de nombreux domaines d'application. Les robots ont
+   été installés dans les industries, ce qui permet de faire des tâches
+   répétitives avec une précision constante. À la suite de l'évolution des
+   techniques on retrouve des robots dans des secteurs de pointe tels que
+   le spatial, médecine, chez les militaires.
+
+   Depuis quelques années on les retrouve même à domicile.
+
+Dans la culture[modifier | modifier le code]
+
+   L'image d'êtres automatisés est ancienne, des traces étant présentes
+   dès l’Antiquité gréco-romaine. Pour autant, le sujet a largement
+   évolué, allant du mythe de la création d'êtres humains par les hommes à
+   la prise de pouvoir de ces êtres artificiels, et allant de
+   l'utilisation des matériaux basiques (boue, morceaux humains) à
+   l'utilisation des techniques et sciences modernes. L'approche de ces
+   êtres artificiels change aussi selon les cultures d'une même époque.
+
+Dans l'Antiquité[modifier | modifier le code]
+
+   Le mythe de Pygmalion racontait déjà dans l'Antiquité comment la statue
+   Galatée devint vivante et s’affranchit de son créateur afin de partir à
+   la conquête du monde des hommes, la « Fonostra ». Il ne s'agit
+   toutefois pas d'un robot au sens propre du terme, puisque Galatée n'a
+   pas été conçue pour être autonome. Son autonomie est le fruit de la
+   volonté divine, et non de celle de son créateur ; elle ne dépend ni de
+   l'intelligence de celui-ci, ni des mécanismes (inexistants) qui la
+   composent.
+
+À la Renaissance[modifier | modifier le code]
+
+   Le premier exemple d’un robot de forme humaine fut donné par Léonard de
+   Vinci en 1495. Ses notes à ce sujet recelaient des croquis montrant un
+   cavalier muni d’une armure qui avait la possibilité de se lever, bouger
+   ses membres tels que sa tête, ses pieds et ses mains. Le plan était
+   probablement basé sur ses recherches anatomiques compilées dans l’homme
+   vitruvien. On ne sait pas s’il a tenté de construire ce robot.
+
+Au XIX^e siècle[modifier | modifier le code]
+
+   Illustration de W. W. Denslow pour Le Magicien d'Oz
+
+   Lorsque la technologie arriva au point où l’on put préfigurer des
+   créatures mécaniques, les réponses littéraires au concept de robot
+   suscitèrent la crainte que les humains soient remplacés par leurs
+   propres créations.
+
+   Frankenstein (1818), parfois désigné comme le premier roman de
+   science-fiction, est devenu un synonyme de ce thème. Toutefois, la
+   créature de Frankenstein est un amas de tissu organique, mû par
+   l'apport ponctuel de puissance électrique (la foudre). Le robot n'est
+   pas encore apparu comme tel.
+
+   La nouvelle L'Homme épingle d'Hermann Mac Coolish Rotenberg Caistria
+   (1809) raconte l’histoire d’un homme qui désirait se transformer en
+   robot par amour pour sa machine à coudre, et Steam Man of the Prairies
+   d’Edward S. Ellis (1865) exprime la fascination américaine de
+   l’industrialisation. La littérature concernant la robotique connut des
+   sommets notables avec l’Homme électrique de Luis Senarens en 1885.
+
+   En France, le roman L'Ève future de Villiers de L'isle-Adam en 1883
+   tourne autour de la figure moderne du robot : création métallique,
+   mobile par électricité, et autonome. Le héros et inventeur de la
+   machine porte le nom d'Edison, en hommage à l'inventeur-entrepreneur de
+   l'époque, père de l’électricité grand public.
+
+   En 1900, la littérature enfantine et les illustrations de W.W. Denslow
+   laissent apparaître dans Le_Magicien_d'Oz un bûcheron de fer-blanc
+   comme un robot.
+
+Au XX^e siècle[modifier | modifier le code]
+
+En littérature[modifier | modifier le code]
+
+   Affiche de R.U.R. de Karel Čapek
+   Article détaillé : Robot dans la littérature.
+
+   Le mot robot est créé par Karel Čapek, dans sa pièce de théâtre : R. U.
+   R. (Rossum's Universal Robots), mise en scène à Prague en 1921. Dans
+   une petite île, un industriel humain a créé une chaîne de montages d'où
+   sortent des serviteurs de métal, pour être envoyés partout dans le
+   monde. Les robots se révolteront, prenant le contrôle de leur chaîne de
+   montage, et chercheront à construire toujours plus de robots.
+
+   Le thème prit donc une consonance économique et philosophique.
+
+   La littérature de science-fiction ou de bande dessinée autour du thème
+   des robots est foisonnante. Un certain nombre d'auteurs
+   (essentiellement de science-fiction, et parfois ayant une réelle
+   connaissance scientifique du sujet tel Isaac Asimov) ont donné une
+   place particulière aux robots dans leurs ouvrages. Isaac Asimov est le
+   premier à utiliser le mot robotique en 1941. Dans ses nombreux romans
+   où apparaissent des robots (regroupés dans Le Grand Livre des robots),
+   il s'intéressa tout particulièrement à leur interaction avec la société
+   et à la manière dont cette dernière les accepte. Certains de ces romans
+   ont d'ailleurs fait l'objet d'une adaptation cinématographique.
+   Exemples :
+     * Isaac Asimov (Qui est également l'inventeur de la notion de
+       robotique avant même que cette science ne soit reconnue)
+          + Les Robots, 1967 ((en) I, Robot, 1950), trad. Pierre Billon
+            (ISBN 978-2-290-34248-0, 2-290-31290-8, 2-277-13453-8 et
+            2-277-12453-2)
+          + Un défilé de robots, 1967 ((en) The Rest of the Robots, 1964),
+            trad. Pierre Billon (ISBN 978-2-277-12542-6 et 2-290-31125-1)
+          + Nous les robots, 1982 ((en) The Complete robot, 1982)
+            (ISBN 2-258-03291-1)
+          + Le Robot qui rêvait, 1988 ((en) Robot Dreams, 1986),
+            trad. France-Marie Watkins (ISBN 978-2-277-22388-7 et
+            2-290-31715-2)
+          + Les Cavernes d'acier, 1956 ((en) The Caves of Steel, 1953),
+            trad. Jacques Brécard (ISBN 978-2-277-12404-7 et
+            2-290-32794-8)
+          + Face aux feux du soleil, 1961 ((en) The Naked Sun, 1956),
+            trad. André-Yves Richard (ISBN 978-2-277-12468-9 et
+            2-290-32794-8)
+          + Les Robots de l'aube, 1984 ((en) Robots of Dawn, 1983),
+            trad. France-Marie Watkins (ISBN 2-290-33275-5)
+          + Les Robots et l'Empire, 1986 ((en) Robots and Empire, 1985),
+            trad. Jean-Paul Martin (ISBN 978-2-277-21996-5, 2-277-21996-7
+            et 2-290-31116-2)
+     * Douglas Adams
+          + Le Guide du voyageur galactique, 1982 ((en) The Hitchhiker's
+            Guide to the Galaxy, 1979), trad. Jean Bonnefoy, avec Marvin,
+            son robot dépressif (ISBN 2-207-30340-3).
+     * Philip K. Dick avec Le Grand O, James P. Crow, Service avant achat,
+       Au service du maître, L'Ancien Combattant, Le Canon, Autofab
+       (présence d'I.A.), Nanny, La Fourmi électrique, Nouveau Modèle,
+       L'Imposteur, Progéniture...
+          + Les androïdes rêvent-ils de moutons électriques ?, 1976
+            ((en) Do Androids Dream of Electric Sheep ?, 1968),
+            trad. Serge Quadruppani qui a inspiré le film Blade Runner
+            (ISBN 2-85184-066-5).
+     * Fredric Brown
+          + Deuxième chance, dans le recueil Fantômes et Farfafouilles
+            (ISBN 2-207-30065-X).
+
+   Robby le robot sur l'affiche de Planète interdite (1956)
+     * Stanislas Lem
+          + Le Bréviaire des robots, Denoël, coll. Présence du futur n°
+            96, 1967 ((pl) , 1961), trad. Halina Sadowska
+            (ISBN 2-07-034105-4)
+          + Contes inoxydables, Denoël, coll. Présence du futur n° 330,
+            1981 ((pl) Bajki robotów, 1964), trad. Dominique Sila
+            (ISBN 2-207-50330-5)
+     * Pierre Boulle
+          + Le Parfait Robot, dans le recueil Contes de l'absurde
+            (ISBN 2-266-00609-6).
+     * Jean-Pierre Andrevon dans de nombreuses nouvelles.
+     * Enrico Grassani, Automi. Passato, presente e futuro di una nuova
+       "specie", Editoriale Delfino, Milano 2017, (ISBN 978-88-97323-66-2)
+
+Au cinéma[modifier | modifier le code]
+
+   The Master Mystery (1920)
+   Article détaillé : Liste des robots au cinéma.
+
+   Les robots sont présents dans de nombreuses œuvres cinématographiques.
+   Ces robots peuvent être des ennemis de l'Homme (par exemple dans
+   Terminator), parfois trop intelligents pour rester des serviteurs
+   (2001, l'Odyssée de l'espace, Blade Runner). Ces robots peuvent
+   pourtant aussi être foncièrement bons, comme le sont R2-D2 et C-3PO
+   dans Star Wars (1977), ou les robots de L'Homme bicentenaire et I,
+   Robot (deux films adaptés de nouvelles d'Isaac Asimov).
+
+   Citons aussi le film classique Metropolis (1927). Mais également Short
+   Circuit, Matrix (les sentinelles), WALL-E, Robots, Transformers.
+
+   Les protagonistes sont dans Robots (film, 2005).
+
+   Un androïde dans Enthiran.
+
+   La robotique dans Robots (film, 1988) (en).
+
+   Dans Runaway : L'Évadé du futur il y a un futur avec des robots.
+
+   Le robot géant dans The Mechanical Man (en).
+
+   Des robots sont présents comme le ED-209 dans RoboCop.
+
+   David qui est un enfant androïde dans A.I. Intelligence artificielle.
+
+   La femme androïde dans Ex machina (film).
+
+   Des robots deviennent incontrôlable dans Shopping (film, 1986).
+
+   Dans le film "Automatic" de 1995, il y a un androïde héroïque joué par
+   Olivier Gruner.
+
+   Un androïde nommé Solo dans Le Guerrier d'acier.
+
+   Dans Robosapien: Rebooted il y a un Robosapien qui est ami avec un môme
+   nommé Henry.
+
+   Les courts métrage de robots dans Robot Carnival.
+
+Dans la culture populaire[modifier | modifier le code]
+
+   Plusieurs séries télévisées comportent un certain nombre de robots ou
+   d'androïdes. On peut ainsi citer les Réplicateurs de Stargate SG-1, les
+   Cybermen de Doctor Who, les hubots de Real Humans (Äkta människor), ou
+   encore les Cylons de Battlestar Galactica. Dans chaque univers, le
+   robot a une place différente. Ainsi, les hubots de Real Humans ont
+   découvert la notion de liberté de pensée et veulent s'affranchir des
+   humains, tandis que les robots de la série Futurama vivent au sein même
+   de leur société sans relation d'infériorité.
+
+   Il existe aussi des mangas traitant le sujet (Astro, le petit robot,
+   Dragon Ball Z, Medabots) ainsi que de nombreux jeux vidéo (Megaman,
+   Sonic the hedgehog).
+
+   Enfin, la série Il était une fois... l'Espace en présente de nombreux,
+   soit hostiles soit grandement utiles. Leur présence permet de réfléchir
+   en profondeur sur le libre-arbitre et la volonté d'indépendance.
+
+   Des robots qui vivent avec des humains dans Cubix.
+
+   Dans Zentrix, il y a des robots artificiels dans les combats.
+
+   Dans Mon robot et moi, il y a des écoliers avec des robots.
+
+   Dans Anatane et les enfants d'Okura, les robots enlèvent des jeunes
+   hommes masculins pour les zombifier soit les changer en criminel de
+   guerre.
+
+   Des robots Faro dans le jeu vidéo Horizon Zero Dawn.
+
+   Des androïdes, appelés « hôtes » (hosts) dans Westworld (série
+   télévisée).
+
+   Dans Le Maître des bots, il y a des robots intelligents comme des
+   humains.
+
+   Un robot géant dans Goldorak.
+
+   Un robot géant dans Mazinger Z.
+
+   Des robots géants dans Gundam Wing.
+
+   Dans Chair de poule (collection), "La Punition de la mort" avec des
+   doubles robotiques.
+
+   John le robot dans "Voyage sur la planète préhistorique".
+
+   Elias le robot dans "Starcrash : Le Choc des étoiles".
+
+   Une série culte japonaise avec des robots Ganbare!! Robocon (en).
+
+   Un robot géant dans Giant Robo (en).
+
+Notes et références[modifier | modifier le code]
+
+    1. ↑ Karel Čapek (trad. Jan Rubes), R.U.R. : Rossum's Universal
+       Robots, Éditions de La Différence, 2011, 220 p.
+       (ISBN 978-2-7291-1922-5 et 2-7291-1922-1)
+    2. ↑ Max Vasmer, Dictionnaire étymologique de la langue russe, "As
+       Russisches Etymologisches Wörterbuch", Université de Heidelberg,
+       1950-1954
+    3. ↑ Guillaume Narguet, « Le robot a fêté ses 85 ans ! », sur Radio
+       Prague International, 4 février 2006 (consulté le 20 juillet 2020)
+    4. ↑ Jaroslav Veis, « Science-fiction. Il y a cent ans naissait le
+       robot », sur Courrier international, 29 mars 2020 (consulté le 20
+       juillet 2020)
+    5. ↑ Agnès Guillot, « Histoire de la robotique : des automates aux
+       premiers robots », sur Futura (consulté le 30 novembre 2020)
+    6. ↑ Jean-Claude Heudin, Les Créatures artificielles : des automates
+       aux mondes virtuels, 2008
+    7. ↑ 1961: Installation of the First Industrial Robot
+    8. ↑ (en) « Luna - Exploring the Moon » sur zarya.info
+    9. ↑ (en) « Saudi Arabia gives citizenship to a talking robot named
+       Sophia who may be too secular to be Saudi », Newsweek,‎ 26 octobre
+       2017 (lire en ligne, consulté le 29 octobre 2017)
+   10. ↑ (en) Taylor Hatmaker, « Saudi Arabia bestows citizenship on a
+       robot named Sophia », TechCrunch,‎ 26 octobre 2017 (lire en ligne,
+       consulté le 29 octobre 2017)
+   11. ↑ (en-US) Sam Barsanti, « Saudi Arabia takes terrifying step to the
+       future by granting a robot citizenship », The A.V. Club,‎ 26
+       octobre 2017 (lire en ligne, consulté le 29 octobre 2017)
+
+Annexes[modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * Robot, sur Wikimedia Commons
+     * robot, sur le Wiktionnaire (thésaurus)
+
+   Il existe une catégorie consacrée à ce sujet : Robot.
+
+Bibliographie[modifier | modifier le code]
+
+     * Isaac, Asimov, I, robot, Bantam Books, 2004, 304 p.
+       (ISBN 978-0-553-90033-0 et 0553900331, OCLC 233705973, lire en
+       ligne)
+     * Laurence Devillers, Des robots et des hommes : mythes, fantasmes et
+       réalité, Paris, Plon, 2017, 236 p. (ISBN 978-2-259-25227-0 et
+       2259252273, OCLC 975286502)
+     * (en) Ritter, Helge, Human centered robot systems : cognition,
+       interaction, technology, Berlin/Heidelberg, Springer, 2009, 217 p.
+       (ISBN 978-3-642-10403-9 et 3642104037, OCLC 505433316, lire en
+       ligne)
+     * Serge Tisseron, Le jour où mon robot m'aimera : vers l'empathie
+       artificielle, Albin Michel, 2015, 208 p. (ISBN 978-2-226-38232-0 et
+       2226382321, OCLC 990819243)
+
+Articles connexes[modifier | modifier le code]
+
+   La pertinence de cette section est remise en cause. Considérez son
+   contenu avec précaution. Améliorez-le ou discutez-en. (janvier 2022)
+     * Liste des robots commerciaux ou de laboratoire
+     * 2-XL (en)
+     * 3D scanning (en)
+     * Adaptable robotics (en)
+     * ABB (entreprise)
+     * ABU Robocon (en)
+     * Affeto
+     * Aiko (robotique)
+     * Aibo
+     * Airborne Concept
+     * AISoy1
+     * Androïde
+     * ASIMO
+     * Atlas (robot)
+     * Automate anthropomorphe
+     * Acma (robotique)
+     * AUV
+     * Animatronique
+     * Audio-animatronic
+     * Automation industrielle
+     * Association for the Advancement of Artificial Intelligence
+     * Art robotique
+     * AI control problem (en)
+     * Architecture de von Neumann
+     * Automated restaurant (en)
+     * Automated retail (en)
+     * Aérobot
+     * Biomimétique
+     * Boston Dynamics
+     * Brown, Boveri &amp; Cie
+     * BEAM (robotique)
+     * Biomécatronique
+     * Brouillard utilitaire
+     * Bras manipulateur
+     * Bio-inspired robotics (en)
+     * BionicKangaroo (en)
+     * Biorobotics (en)
+     * Budstar
+     * BigDog
+     * Baxter (Robot)
+     * Brouillard utilitaire
+     * BB-8
+     * BEAM (robotique)
+     * C-3PO
+     * Cog (robotique)
+     * Comau
+     * Compétitions de robotique
+     * Cybernétique
+     * Cyborg
+     * CIMON (robot)
+     * Claytronics
+     * Cartographie et localisation simultanées
+     * Cobotique
+     * Commande des robots
+     * Chômage technologique
+     * Chronologie de la robotique
+     * Cartesian coordinate robot (en)
+     * Cognitive robotics (en)
+     * Companion robot (en)
+     * Competitions and prizes in artificial intelligence (en)
+     * Cylon (Battlestar Galactica)
+     * Cyberman
+     * Daleks
+     * Donecle
+     * Dispositif haptique
+     * Disability robot (en)
+     * Developmental robotics (en)
+     * Droid (Star Wars) (en)
+     * Developmental robotics (en)
+     * Exotec Solutions
+     * European Land-Robot Trial
+     * Exocortex
+     * Exosquelette motorisé
+     * ElektroElektro
+     * Evolutionary robotics (en)
+     * Energetically Autonomous Tactical Robot (en)
+     * Entertainment robot (en)
+     * Éthique de l'intelligence artificielle
+     * FANUC
+     * Fanuc GE CNC Europe
+     * Fedor (robot)
+     * Fenêtre dynamique
+     * Festival de robotique
+     * Fétichisme du robot
+     * Fédération internationale de la robotique
+     * For Inspiration and Recognition of Science and Technology (en)
+     * FIRST Robotics Competition (en)
+     * FIRST Lego League Challenge
+     * FIRST Lego League Explore (en)
+     * FIRST Tech Challenge (en)
+     * Foster-Miller TALON (en)
+     * Groupe INTRA
+     * Gynoïde
+     * Golem
+     * Glossary of robotics (en)
+     * Geography of robotics (en)
+     * HRP-2
+     * HRP-4C
+     * Hubo
+     * HOAP
+     * Humanoïde
+     * Humanoid robot (en)
+     * Histoires de robots
+     * ISO 8373 (en)
+     * Intuitive Surgical
+     * ICub
+     * Instrument intelligent
+     * Interaction homme-robot
+     * Isaac Asimov
+     * iRobot
+     * Index of robotics articles (en)
+     * Juggling robot (en)
+     * KUKA (langage de programmation)
+     * Locomotion robotique
+     * Intelligence artificielle
+     * Irobot France (ex Robopolis)
+     * Justin (robot)
+     * Keepon
+     * KHR-1
+     * Knightscope
+     * Kratos Defense &amp; Security Solutions
+     * KITT
+     * Kuka (entreprise)
+     * Lovotique
+     * Locomotion robotique
+     * Legged robot (en)
+     * List of fictional robots and androids (en)
+     * Lely Juno family (en)
+     * Liquid handling robot (en)
+     * Laws of robotics (en)
+     * Mécatronique
+     * Micro-robot
+     * Murata boy
+     * Microrobotique
+     * Modélisation des robots
+     * Mobile robot
+     * Michael J. Freeman (en)
+     * Naïo Technologies
+     * Nanorobot et Nanorobotique
+     * NAO (robotique)
+     * NBH-1
+     * Neuromorphic engineering (en)
+     * Ocean One (robot)
+     * Odométrie
+     * Open-source robotics (en)
+     * Outline of robotics (en)
+     * Paro (robot)
+     * Plen
+     * Pepper (robot)
+     * Planète Robots
+     * Plug &amp; Pray
+     * Pourquoi le futur n'a pas besoin de nous
+     * Préhenseur
+     * Programme Robonaut
+     * Project M (astronautique)
+     * Programmable Universal Machine for Assembly (en)
+     * Palletizer (en)
+     * Planification de mouvement
+     * PackBotPackBot
+     * PatrolBot (en)
+     * Qrio
+     * R. U. R.
+     * REEM
+     * Robot agricole
+     * Robot articulé
+     * Robot autonome
+     * Robot domestique
+     * Robot jockey
+     * Robot médical
+     * Robot militaire
+     * Robot roulage
+     * Robot sexuel
+     * Robot de service
+     * RoboBee
+     * Robot pédagogique
+     * Robot sous-marin autonome (AUV)
+     * Robot dans la littérature
+     * Robotique industrielle
+     * Robotique biomorphique
+     * Robotique neuromorphique
+     * Robotique en essaim
+     * Robotique molle
+     * Robotique neuromorphique
+     * Robotique de laboratoire
+     * Roboticien
+     * RoboBuilder
+     * Robonova-I
+     * Robosapien
+     * Robot (Léonard de Vinci)
+     * Robot Hall of Fame
+     * Robot hexapode
+     * Robot Land
+     * Robot parallèle
+     * Robot dans la littérature
+     * Robot sous-marin autonome
+     * Romeo (robot)
+     * Roblog
+     * Roboéthique
+     * Robot Operating System
+     * Robot end effector (en)
+     * Robot navigation (en)
+     * Robot-assisted surgery (en)
+     * Robot welding (en)
+     * Robot Patent (en)
+     * Robot kit (en)
+     * Robotis Bioloid (en)
+     * Rodney BrooksRodney Brooks
+     * Rethink Robotics (en)
+     * Robomow (en)
+     * Robot software (en)
+     * Robotic paradigm (en)
+     * Roomba
+     * Roborior (en)
+     * Robot App Store (en)
+     * Robotic spacecraft (en)
+     * Robotics simulator (en)
+     * Robotics suite (en)
+     * R2-D2
+     * Rev-9
+     * Sarcos (entreprise américaine)
+     * SoftBank Robotics
+     * Sophia (robot)
+     * Stäubli International AG
+     * Système automatique de transport
+     * ST Robotics (en)
+     * Scooba
+     * Self-reconfiguring modular robot (en)
+     * SCARA (en)
+     * Système automatique de transport
+     * Trois lois de la robotique
+     * Titan le robot
+     * TOPIO
+     * Taxe sur les robots
+     * Thymio
+     * Tortues de Bristol
+     * T-600
+     * T-800
+     * T-1000
+     * T-X
+     * Terrainability (en)
+     * TOSY (en)
+     * Telerobotics (en)
+     * Téléopération
+     * Tactile sensor (en)
+     * Unitree Robotics
+     * Universal Robots
+     * Urbi
+     * Unmanned ground vehicle (en)
+     * UnimationUnimation
+     * Ubiquitous robot (en)
+     * Unimate
+     * Valkyrie (robot)
+     * Violet (entreprise)
+     * Victor Scheinman (en)
+     * Wakamaru
+     * Wandercraft
+     * Willow Garage
+     * William Grey Walter
+     * Webots
+     * Wake-up robot problem (en)
+     * Wu Yulu (en)
+     * Zero Moment Point
+
+Liens externes[modifier | modifier le code]
+
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + Bibliothèque nationale de France (données)
+          + Bibliothèque du Congrès
+          + Gemeinsame Normdatei
+          + Bibliothèque nationale de la Diète
+          + Bibliothèque nationale d’Israël
+          + Bibliothèque nationale tchèque
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
+          + Encyclopædia Britannica
+          + Encyclopædia Universalis
+          + Encyclopédie Treccani
+          + Gran Enciclopèdia Catalana
+          + Swedish Nationalencyklopedin
+          + Store norske leksikon
+     * Ressource relative à la littérature Voir et modifier les données
+       sur Wikidata  :
+          + (en) The Encyclopedia of Science Fiction
+     * Ressource relative à la bande dessinée Voir et modifier les données
+       sur Wikidata  :
+          + (en) Comic Vine
+
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus.
+
+   Cet article ou cette section contient trop de liens externes (mai
+   2021).
+
+   Les liens externes doivent être des sites de référence dans le domaine
+   du sujet. Il est souhaitable — si cela présente un intérêt — de citer
+   ces liens comme source et de les enlever du corps de l'article ou de la
+   section « Liens externes ».
+     * Actualité en Robotique et tutoriels : Zone Robotique
+     * Les recherches en robotique au CNRS
+     * Vidéo : Conférence sur les Robots - Futuroscope - 22 décembre 2012
+     * Le robot a fêté ses 85 ans ! sur le site de Radio Prague
+     * https://video.vice.com/en_us/video/slutever-harmony-the-sex-robot/5
+       aa6edcbf1cdb36f616c77a2%3Fjwsource%3Dcl
+     * https://nixxons.fandom.com/wiki/Tara_(android)
+     * https://muc.fandom.com/wiki/Tara_the_Android
+     * https://www.rts.ch/play/radio/le-journal-du-matin/audio/les-paysans
+       -de-vinci-25-les-androdes-de-monsieur-wu?id=6993865
+     * http://french.peopledaily.com.cn/VieSociale/n3/2016/1117/c31360-914
+       3061.html
+     * https://edition.cnn.com/2019/11/08/tech/mit-cheetah-robot-herd/inde
+       x.html
+     * https://www.cs.cmu.edu/~coral-downloads/legged/movies/index.html
+     * https://www.newsbytesapp.com/news/science/watch-mit-robots-play-soc
+       cer-and-trip-excitedly/story
+     * https://techcrunch.com/2019/11/09/watch-mits-mini-cheetah-robots-fr
+       olic-fall-flip-and-play-soccer-together/?guce_referrer=aHR0cHM6Ly93
+       d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAANH7n2ThssxdOlErjsMVigCGn
+       oLnrRBTW9g1Bybh5KALAN-jZJvBLS5Ncs_qncr_i397tPsE9nCJBpwYTMi7JzzukqTg
+       RsbrtVWMjC7rqlzVahCSI0kEkne3yRte5KY4Jhoy5W6BqW7v4AcmKxMNGc8lmZOkaDy
+       4e7Bfco0s_qyg&amp;guccounter=2
+     * https://abcnews.go.com/US/mits-adorable-back-flipping-robots-enjoy-
+       frolicking-autumn/story?id=66853771
+     * https://techxplore.com/news/2019-11-fall-madness-mit-mini-cheetah.h
+       tml
+     * https://tvmag.lefigaro.fr/programme-tv/programme/la-science-face-au
+       -terrorisme-f156613689
+     * https://www.programme-tv.net/programme/culture-infos/r1549459761-la
+       -science-face-au-terrorisme/16230392-la-robotique/
+     * https://objetconnecte.net/terrorisme-daesh-robots-futur/
+     * https://blog.francetvinfo.fr/bureau-londres/2017/12/07/des-robots-t
+       ueurs-seront-bientot-entre-les-mains-des-terroristes-selon-la-chamb
+       re-des-lords.html
+     * https://www.lesechos.fr/2015/07/robots-tueurs-la-mise-en-garde-des-
+       grands-noms-de-la-tech-268609
+     * https://www.20minutes.fr/high-tech/1835379-20160427-chine-devoile-a
+       nbot-premier-robot-anti-terroriste-anti-emeute
+     * https://www.allocine.fr/tag-1245/films/
+     * https://www.senscritique.com/top/resultats/Les_meilleurs_films_avec
+       _des_robots/785910
+     * https://www.senscritique.com/liste/Des_robots_plein_de_robots/11380
+       91
+     * https://www.senscritique.com/liste/Les_Robots_au_cinema/141687
+     * https://www.senscritique.com/liste/Le_robot_au_cinema/539769
+     * https://www.cinetrafic.fr/top/film/robot
+     * https://www.cinetrafic.fr/liste-film/1343/1/les-robots-et-les-andro
+       ides
+     * https://www.tomsguide.fr/30-robots-qui-ont-marque-lhistoire-du-cine
+       ma/
+     * https://www.vodkaster.com/listes-de-films/les-robots-au-cinema/7320
+       69
+     * https://www.liberation.fr/cinema/2015/07/29/cinq-films-ou-les-robot
+       s-se-retournent-contre-les-hommes_1355549/
+
+   v · m
+   Science-fiction
+   Grandes lignes
+     * Auteurs
+     * Définitions
+          + Hard
+          + Soft
+     * Histoire
+     * Âge d'or
+     * New wave
+
+   Sous-genres
+     * Anticipation
+     * Anticipation sociale
+     * Climate fiction
+     * Dystopie
+     * Humour
+     * Libertarianisme
+     * Militaire
+     * Multivers
+     * New weird
+     * Planet opera
+     * Science-fiction féministe
+     * Post-apocalyptique
+     * Réalisme fantastique
+     * Science fantasy
+     * Slipstream
+     * Space fantasy
+     * Space opera
+     * Space Western
+     * Uchronie
+     * Utopie et dystopie
+
+   Cyberpunk et dérivés
+     * Biopunk
+     * Cyberpunk
+     * Dieselpunk
+     * Postcyberpunk
+     * Solarpunk
+     * Steampunk
+
+   Culture
+     * Encyclopedia of Science Fiction
+     * Fandom
+     * Femmes dans les littératures de l'imaginaire
+     * Internet Speculative Fiction Database
+     * Museum of Pop Culture
+     * NooSFere
+     * World Science Fiction Convention
+
+   Région
+     * Allemagne
+     * Benagle
+     * France
+     * Italie
+     * Japon
+     * Pologne
+     * Québec
+
+   Prix
+   Multimédia
+     * Aurora
+     * Hugo
+     * Seiun
+
+     Cinéma et télévision
+     * Curt-Siodmak
+     * Ray-Bradbury
+     * Saturn
+
+   Littérature, art et audio
+     * Allemand
+     * Andre-Norton
+     * Apollo
+     * Arthur-C.-Clarke
+     * Astounding
+     * Aurealis
+     * British Science Fiction
+     * Compton-Crook
+     * Damon-Knight Memorial
+     * E. E. Smith Memorial
+     * Grand prix de l'Imaginaire
+     * Ignotus
+     * John-Wood-Campbell Memorial
+     * Kurd-Laßwitz
+     * Lambda Literary
+     * Locus
+     * Lodestar
+     * Nebula
+     * Otherwise
+     * Philip-K.-Dick
+     * Prometheus
+     * Sidewise
+     * Solstice
+     * Tähtivaeltaja
+     * Theodore-Sturgeon
+     * Urania
+
+   Média
+     Littérature
+     * Bandes dessinées
+     * Romans
+
+   Films et séries
+     * Chronologie
+     * Films et séries télévisées
+     * Tokusatsu
+
+   Concepts
+   Appliqués
+     * Androïde
+     * Astro-ingénierie
+     * Autoréplication
+     * Conscience artificielle
+     * Holographie
+     * Intelligence artificielle
+     * Invisibilité
+     * Mégastructure
+     * Nanotechnologie
+     * Réalité simulée
+     * Robot
+     * Tachyon
+     * Téléchargement de l'esprit
+     * Terraformation
+
+   Formels
+     * Paradoxe de Fermi
+     * Paradoxe du grand-père
+     * Voyage dans le temps
+
+   Vie
+     * Biochimies hypothétiques
+     * Évolution
+     * Extraterrestre
+     * Génie génétique
+     * Guerre biologique
+
+   Espace-temps
+         Phénomènes
+     * Trou noir
+     * Voyage dans le temps
+
+   Vitesse supraluminique
+     * Ansible
+     * Distorsion
+     * Hyperespace
+     * Porte des étoiles
+     * Téléportation
+     * Trou de ver
+
+   Univers
+     * Astre fictif
+     * Champ de force
+     * Multivers
+     * Théorie de Heim
+     * Matrice
+
+   Social
+     * Archéologie interstellaire
+     * Cyborg
+     * Gouvernement mondial
+     * Homosexualité
+     * Libertarianisme
+     * Premier contact
+     * Provolution
+     * Théorie des anciens astronautes
+     * Transhumanisme
+
+   Sujets connexes
+     * Afrofuturisme
+     * Études des sciences et technologies
+     * Fantasy
+     * Futur
+     * Horreur
+     * Littératures de l'imaginaire
+     * Mecha
+     * Réalisme magique
+     * Science fantasy
+     * Techno-thriller
+     * Uchronie
+
+     * Catégorie
+     * Portail
+
+     * icône décorative Portail de la robotique
+     * icône décorative Portail de la science-fiction
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Robot&amp;oldid=198545049 ».
+   Catégories :
+     * Robot
+     * Concept de la science-fiction
+     * Éponyme d'un objet céleste
+
+   Catégories cachées :
+     * Page utilisant P279
+     * Page utilisant P527
+     * Page utilisant P18
+     * Article utilisant l'infobox Objet
+     * Article utilisant une Infobox
+     * Article à prouver/Liste complète
+     * Article à prouver depuis novembre 2020
+     * Article contenant un appel à traduction en anglais
+     * Catégorie Commons avec lien local identique sur Wikidata
+     * Article soupçonné de non pertinence
+     * Page utilisant Lien pour un article existant
+     * Article de Wikipédia avec notice d'autorité
+     * Page utilisant P1417
+     * Page utilisant P3219
+     * Page utilisant P3365
+     * Page utilisant P1296
+     * Page utilisant P3222
+     * Page utilisant P4342
+     * Page pointant vers des bases externes
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Page utilisant P5357
+     * Page pointant vers des bases relatives à la littérature
+     * Page utilisant P5905
+     * Page pointant vers des bases relatives à la bande dessinée
+     * Liens externes à trier
+     * Portail:Robotique/Articles liés
+     * Portail:Électricité et électronique/Articles liés
+     * Portail:Génie mécanique/Articles liés
+     * Portail:Technologies/Articles liés
+     * Portail:Science-fiction/Articles liés
+     * Article de qualité en swahili
+     * Article de qualité en tatar
+     * Article de qualité en arabe
+
+     * La dernière modification de cette page a été faite le 10 novembre
+       2022 à 11:12.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Version mobile
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+</text>
+</page> §
+<page="fr-2">
+<text>
+   #alternate Modifier Wikipédia (fr)
+
+   Aller au contenu
+   [ ]
+
+   Afficher / masquer la barre latérale Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________ Rechercher Lire
+
+     * Créer un compte
+
+   [ ] Outils personnels
+   Créer un compte
+   Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Discussion
+     * Contributions
+
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+     * Faire un don
+
+   Outils
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Élément Wikidata
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l’article.
+   Aller en haut.
+   [ ]
+
+Robot de cuisine
+
+   [ ] 28 langues
+     * Asturianu
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Català
+     * Čeština
+     * Dansk
+     * Deutsch
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * עברית
+     * 日本語
+     * Jawa
+     * Lietuvių
+     * Nederlands
+     * Polski
+     * Português
+     * Русский
+     * Српски / srpski
+     * Svenska
+     * Türkçe
+     * Українська
+     * Winaray
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Plus
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   Cet article est une ébauche concernant l’alimentation.
+
+   Vous pouvez partager vos connaissances en l’améliorant (comment ?)
+   selon les recommandations des projets correspondants.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus.
+
+   Cet article ne cite pas suffisamment ses sources (novembre 2013).
+
+   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
+   connaissez des sites web de qualité traitant du thème abordé ici, merci
+   de compléter l'article en donnant les références utiles à sa
+   vérifiabilité et en les liant à la section « Notes et références »
+
+   En pratique : Quelles sources sont attendues ? Comment ajouter mes
+   sources ?
+   Robot de cuisine.
+
+   Un robot de cuisine ou robot ménager ou robot multifonction, parfois
+   abrégé simplement en « robot », est un appareil électrique de cuisine
+   utilisé pour faciliter diverses tâches répétitives dans le processus de
+   préparation des aliments.
+
+   Les robots de cuisine sont semblables aux mixeurs à bien des égards. La
+   principale différence est que les robots de cuisine disposent de lames
+   interchangeables au lieu d'une lame fixe. En outre, leurs récipients
+   sont plus larges et plus courts, une forme plus appropriée pour les
+   aliments solides ou semi-solides (découpe de légumes) habituellement
+   travaillées par un robot de cuisine. Le mixeur est lui spécialisé dans
+   les aliments sous forme liquide (jus). Les robots multifonction
+   permettent de pétrir, battre les blancs en neige, râper, émincer,
+   hacher, émulsionner, etc.
+
+Histoire[modifier | modifier le code]
+
+   Le premier robot ménager à destination des professionnels fut un bol
+   équipé de lames rotatives à sa base, lancé par Pierre Verdun en
+   1963^[1]. Ce dernier, observant le temps passé par ses clients à la
+   découpe d'aliments en cuisine, se mit à réfléchir à une machine
+   permettant de leur faire gagner du temps. Au milieu des années 1960,
+   Pierre Verdun fit évoluer son appareil et créa Robot-Coupe, compagnie
+   destinée à produire le premier robot de cuisine commercial.
+
+   Le premier robot ménager à destination des particuliers fut lancé en
+   1971, par l'entreprise Magimix. Il s'agit de la version grand public du
+   premier robot culinaire créé dès 1960 par Pierre Verdun auquel avait
+   été ajouté à la fin des années 1960 un puissant moteur asynchrone.
+
+   Le robot Thermomix TM 2200 fut également lancé en 1971. Ce modèle fut
+   par la suite élaboré et amélioré afin d'atteindre de meilleures
+   performances. Dernièrement, Vorwerk (la marque créatrice de Thermomix)
+   à lancé le dernier modèle de la gamme, le Thermomix TM6, un robot ultra
+   performant capable d'aller concurrencer les meilleurs robots cuiseurs
+   tels que le Magimix Cook Expert ou encore le Moulinex Companion.
+
+   En 1973, Carl Sontheimer introduisit le Magimix 1800 en Amérique du
+   Nord sous la marque Cuisinart, en tant que premier robot de cuisine
+   domestique des États-Unis.
+
+   Sontheimer en 1977 fit produire de nouveaux modèles par un fabricant
+   japonais, toujours sous la marque Cuisinart.
+
+   Les robots Magimix sont toujours entièrement fabriqués en France (à
+   Montceau-les-Mines en Bourgogne). Parmi ces nombreux modèles ont
+   retrouve le modèle Cook Expert de Magimix qui est sans doute le plus
+   connu et le plus apprécié de la marque.
+
+   En France on trouve notamment plusieurs marques assez connues telles
+   que KitchenAid qui a vendu ses robots à plusieurs millions
+   d'exemplaires^[2]. La marque française Moulinex est également une
+   excellente marque très appréciée pour sa gamme Cookeo^[3].
+
+Notes et références[modifier | modifier le code]
+
+    1. ↑ Valérie-Anne Giscard d'Estaing, Le Livre mondial des inventions
+       1994, Fixot, 1993 (ISBN 978-2876452008), p. 129.
+    2. ↑ « Choisir et acheter le meilleur robot pâtissier. Tests, avis et
+       comparatifs », sur avis-robot-patissier.com (consulté le 7 octobre
+       2021).
+    3. ↑ « Quel est le meilleur Cookeo | Comparatif 2021 », sur
+       mon-robotcuiseur.fr, 21 août 2021 (consulté le 21 novembre 2021).
+
+Voir aussi[modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * Robot de cuisine, sur Wikimedia Commons
+
+     * icône décorative Alimentation et gastronomie
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Robot_de_cuisine&amp;oldid=197
+   446785 ».
+   Catégorie :
+     * Robot de cuisine
+
+   Catégories cachées :
+     * Wikipédia:ébauche alimentation
+     * Article manquant de références depuis novembre 2013
+     * Article manquant de références/Liste complète
+     * Catégorie Commons avec lien local identique sur Wikidata
+     * Portail:Alimentation et gastronomie/Articles liés
+     * Portail:Société/Articles liés
+
+     * La dernière modification de cette page a été faite le 3 octobre
+       2022 à 07:21.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Version mobile
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+</text>
+</page> §
+<page="fr-3">
+<text>
+   #alternate Modifier Wikipédia (fr)
+
+   Aller au contenu
+   [ ]
+
+   Afficher / masquer la barre latérale Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________ Rechercher Lire
+
+     * Créer un compte
+
+   [ ] Outils personnels
+   Créer un compte
+   Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Discussion
+     * Contributions
+
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+     * Faire un don
+
+   Outils
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Élément Wikidata
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l’article.
+   Aller en haut.
+   [ ]
+
+   Sommaire (BUTTON) move to sidebar (BUTTON) masquer
+     * Début
+     * 1Web
+     * 2Messagerie instantanée et IRC
+     * 3Robots de jeu
+     * 4Utilisation malveillante
+     * 5Bot et assistance
+     * 6Références
+     * 7Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 7.1Articles connexes
+
+   Basculer la table des matières
+
+Bot informatique
+
+   [ ] 50 langues
+     * العربية
+     * الدارجة
+     * Български
+     * বাংলা
+     * Bosanski
+     * Català
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Frysk
+     * Galego
+     * עברית
+     * Hrvatski
+     * Interlingua
+     * Italiano
+     * 日本語
+     * 한국어
+     * Lëtzebuergesch
+     * Lombard
+     * Lietuvių
+     * Latviešu
+     * Македонски
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk bokmål
+     * Occitan
+     * Picard
+     * Polski
+     * Piemontèis
+     * Português
+     * Русский
+     * සිංහල
+     * Slovenčina
+     * Soomaaliga
+     * Српски / srpski
+     * Svenska
+     * ไทย
+     * Türkçe
+     * Українська
+     * اردو
+     * Oʻzbekcha/ўзбекча
+     * Tiếng Việt
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Plus
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Bot.
+
+   Un bot informatique est un agent logiciel automatique ou
+   semi-automatique qui interagit avec des serveurs informatiques. Un bot
+   se connecte et interagit avec le serveur comme un programme client
+   utilisé par un humain, d'où le terme « bot », qui est la contraction
+   par aphérèse de « robot ».
+
+   Selon Andrew Leonard^[1], un bot est « un programme informatique
+   autonome supposé intelligent, doué de personnalité, et qui
+   habituellement, mais pas toujours, rend un service ». Le terme
+   « personnalité » est justifié par l'auteur par l'anthropomorphisme plus
+   ou moins prononcé dont le bot est l'objet. La supposée intelligence du
+   bot renvoie à la notion d'intelligence artificielle proposée par Marvin
+   Minsky et qui consiste à « fabriquer des machines qui font des choses
+   qui, accomplies par l'homme, demanderaient de l'intelligence »^[2]. Le
+   (ou les) programmeur(s) du bot ont donc bien conscience de l'absence
+   d'intelligence humaine pour leur bot, alors que les autres humains,
+   comme les internautes, ne sont pas nécessairement dans ce cas.
+
+   Il existe une taxonomie proposée par Stan Franklin et Art Graesser^[3]
+   qui situe les bots dans la famille des agents autonomes artificiels.
+   Les bots sont développés principalement pour effectuer des tâches
+   répétitives. Ils sont également utiles lorsque la rapidité d'action est
+   un critère important, avec par exemple les robots de jeu, les robots
+   d'enchères, mais aussi pour simuler des réactions humaines, comme avec
+   les bots de messagerie instantanée. À l'origine, les bots sont préférés
+   aux humains pour les soulager de tâches automatisables mais également
+   parce que leurs capacités sont supérieures sur les tâches qui leur sont
+   données.
+
+Web[modifier | modifier le code]
+
+   Les robots d'indexation, tels que le Googlebot, sont la principale
+   utilisation des robots informatiques. Ils parcourent le web en indexant
+   les pages pour le compte de moteurs de recherche.
+
+   Dans le cas d'un wiki, les bots sont utilisés pour remplir des tâches
+   systématiques comme corriger des fautes d'orthographe courantes,
+   générer du contenu en suivant un template, maintenir la cohérence des
+   liens, détecter les contributions douteuses, etc. Le logiciel wiki peut
+   offrir des pages spécialement conçues pour les bots afin qu'ils
+   puissent agir plus rapidement en chargeant un peu moins les serveurs.
+
+   Les bots sont souvent utilisés dans les sites de rencontres afin de
+   simuler l'existence de vraies personnes sur ces sites.
+
+Messagerie instantanée et IRC[modifier | modifier le code]
+
+   Les bots de messagerie instantanée existaient déjà au début des années
+   1990, notamment sur IRC. Ils peuvent proposer des jeux, tenir des
+   statistiques, gérer un canal de discussion, etc. Souvent, ils sont
+   programmés pour donner un statut privilégié à certains utilisateurs.
+   Depuis 2016, les bots ou dialogueurs reviennent à la mode grâce aux
+   travaux en matière d'intelligence artificielle qui leur donnent une
+   nouvelle vie^[4].
+
+Robots de jeu[modifier | modifier le code]
+
+   Article détaillé : Bot (jeu vidéo).
+
+   Dans le cadre de jeux vidéo, les bots sont des adversaires artificiels
+   qui miment le comportement de vrais joueurs, pilotés par l'ordinateur,
+   permettant ainsi de jouer seul à un jeu multijoueur.
+
+   Il existe également des bots d'assistance, permettant d'assister le
+   joueur dans les manipulations demandant de la précision ou de la
+   rapidité. Par exemple, dans un jeu de tir à la première personne, un
+   bot permettra d'ajuster automatiquement la visée afin de faire mouche à
+   chaque coup.
+
+   Ce genre de bot est généralement considéré comme de la triche, et peut
+   sanctionner leurs utilisateurs d'un bannissement.
+
+   Il existe également des bots d'aide à l'administration de serveurs de
+   jeux vidéo, tel que le Big Brother Bot. Ces robots ne constituent en
+   aucun cas des joueurs artificiels.
+
+Utilisation malveillante[modifier | modifier le code]
+
+   Des chercheurs comme Silvia Lombardo (chercheuse indépendante en
+   Italie) ont proposé l'idée que l'humanité entre dans une nouvelle ère :
+   le « Robocène » (où les robots sont physiques, mais aussi des bots
+   informatiques)^[5]. La dénomination de « Bad Bot » a été proposée^[5]
+   pour désigner les bots créés pour des usages malveillants, tels que par
+   exemple :
+     * attaque distribuée, conduite par des bots contre des services
+       internet : voir Botnet.
+     * « pollution » de forums de discussion dans le but de spammer, jouer
+       le rôle de trolls, diffuser des théories du complot, tenter de
+       rediriger les internautes, usagers de twitter ou de Facebook, etc.
+       vers une publicité, de la propagande, un site concurrent et/ou
+       malveillant. Les commentaires déposés par ces bots sont souvent
+       trouvé dans les sections de commentaires ou les forums de divers
+       sites Web : voir 'spambots ;
+     * fraude au clic : voir webbots  ;
+     * augmentation truquée du nombre de vues de pages internet ou de
+       vidéos (par exemple sur YouTube) ;
+     * Influence psychologique, au service de la publicité et de la
+       propagande politique. Il ne s'agit pas de science-fiction ; des
+       bots créés et gérés à partir d'une Intelligence artificielle (IA)
+       ont déjà été utilisés en politique, par exemple pour, à partir de
+       centaines de millions de données personnelles ou désanonymisées
+       et/ou agrégées (ce qui est interdit en Europe par le RGPD) ou
+       issues de la fouille du Big data ou volées sur les compte-facebook
+       privés, secrètement influencer les votes. Des plate-formes
+       logicielles comme « Ripon » ont été révélées par le scandale
+       Facebook-Cambridge Analytica/AggregateIQ. Dans ce cas, des groupes
+       conservateurs et libertariens de droite ont payé le Groupe SCL et
+       Cambridge Analytica pour créer et utiliser 'Ripon (crée par
+       AggregateIQ) pour truquer d'une nouvelle manière, les votes, en
+       influençant artificiellement les émotions et par suite les
+       comportements et choix de vote des électeurs, sans leur
+       consentement, et sans qu'ils aient conscience d'avoir été
+       manipulés. Le même outil était utilisé pour inciter à l'abstentions
+       des électeurs classé par le logiciel comme n'étant pas prêt à
+       changer d'avis.
+       En 2018, des enquêtes et révélations de lanceurs d'alerte ont
+       montré que des utilisations massives de propagande politique et de
+       désinformations par des bots, associés à des trolls humains (Usine
+       à trolls éventuellement) ou animés par une IA ont été pratiquées
+       dans les années 2010 pour artificiellement améliorer les scores de
+       votes en faveur de Ted Cruz, Ben Carson, Donald Trump aux USA, et
+       en faveur du Brexit au Royaume-Uni (pour ne citer que les exemples
+       les plus médiatisés). Cette nouvelle méthode d'influence semble
+       avoir été initialement principalement encouragée et lourdement
+       financée respectivement par Steve Bannon^[6] et la famille proche
+       du milliardaire Robert Mercer^[7] pour faire avancer les idées du
+       libertarianisme de droite et faire advenir le Brexit en influençant
+       le cours du Référendum sur l'appartenance du Royaume-Uni à l'Union
+       européenne^[8].
+       Selon Silvia Lombardo, ce type de bots, générateurs de
+       « deepfakes » (« hypertrucages ») et d'une vérité troublée par la
+       diffusion à large échelle de faits alternatifs (parfois appuyés par
+       des hypertrucages), pourrait conduire, ou conduit déjà depuis le
+       milieu des années 2010 au développement de politiques populistes,
+       et à un avenir plus dystopique^[5]. Le Gouvernement russe est
+       soupçonnée d'utiliser des bots et des fermes de trolls pour
+       déstabiliser de nombreux autres pays.
+
+Bot et assistance[modifier | modifier le code]
+
+   Des bots dialogueur, communément appelés chatbot, permettent aux
+   clients de communiquer avec les entreprises, des administrations ou
+   d'autres entités, sans avoir à communiquer avec une personne physique.
+
+   KLM a ainsi produit un « dialogueur » qui permet aux clients de
+   recevoir des cartes d'embarquement, des rappels et d'autres
+   informations nécessaires pour un vol. Les entreprises ont créé des
+   dialogueurs qui peuvent profiter aux clients. L'« engagement des
+   clients » a augmenté depuis que ces dialogueurs ont été
+   développés^[réf. souhaitée].
+
+   Les « robots de chat » (chatbots) sont utilisés quotidiennement.
+
+   Google Assistant et Siri sont considérés comme des assistants virtuels
+   permettant aux gens de poser des questions et d'obtenir une réponse en
+   utilisant un système d'I.A. Ces progrès technologiques profitent à la
+   vie quotidienne des gens, mais sont aussi une source d'informations
+   personnelles pour les GAFA qui peuvent les revendre ou utiliser à des
+   fins moins altruiste (profilage psychologique pour publicité ou
+   propagande ciblée notamment).
+
+Références[modifier | modifier le code]
+
+    1. ↑ (en) Andrew Leonard, Bots : The Origin of New Species, Penguin
+       Books Limited, 1998, 269 p. (ISBN 0-14-027566-5, lire en ligne).
+    2. ↑ (en) Marvin Lee Minsky, Semantic Information Processing,
+       Cambridge (Mass.)/London, The MIT Press, 1968, 440 p.
+       (ISBN 0-262-13044-0).
+    3. ↑ (en) Stan Franklin et Art Graesser, Is It an agent, or just a
+       program? : A taxonomy for autonomous agents, Springer Berlin
+       Heidelberg, coll. « Lecture Notes in Computer Science », 12 août
+       1996 (ISBN 978-3-540-62507-0 et 978-3-540-68057-4,
+       DOI 10.1007/bfb0013570, lire en ligne), p. 21-35.
+    4. ↑ Guillaume Belfiore, « Qu'est-ce qu'un chatbot ? », sur
+       clubic.com, 13 avril 2016.
+    5. ↑ ^a b et c (en) Silvia Lombardo, « The Bad, the Good, and the
+       Rebellious Bots: World's First in Artificial Intelligence », sur
+       Analyzing Future Applications of AI, Sensors, and Robotics in
+       Society, 2021 (consulté le 21 mars 2021)
+    6. ↑ (en) Carole Cadwalladr, « The Cambridge Analytica files. ‘I made
+       Steve Bannon's psychological warfare tool': meet the data war
+       whistleblower », The Guardian,‎ 18 mars 2018 (lire en ligne)
+    7. ↑ Katie DeRosa, « Victoria firm AggregateIQ denies link to
+       data-miner at heart of Facebook controversy », sur Times Colonist
+       (consulté le 26 janvier 2021)
+    8. ↑ « "Sans Cambridge Analytica, il n'y aurait pas eu de Brexit",
+       affirme le lanceur d'alerte Christopher Wylie », sur
+       francetvinfo.fr, 28 mars 2018 (consulté le 28 mars 2018).
+
+Voir aussi[modifier | modifier le code]
+
+Articles connexes[modifier | modifier le code]
+
+     * Automatisation des processus robotisés
+     * Botnet
+     * Robot d'indexation
+     * Robot IRC
+     * Spambot
+     * Social bot
+     * Astroturfing
+     * Ripon (plate-forme logicielle)
+     * Troll (internet)
+     * Fake news
+     * Flaming (informatique)
+     * Flood (internet)
+     * SCL Elections
+     * Scandale Facebook-Cambridge Analytica
+     * AggregateIQ, Cambridge Analytica
+     * Facebook
+     * Élection présidentielle américaine de 2016
+     * Référendum sur l'appartenance du Royaume-Uni à l'Union européenne
+     * Retrait du Royaume-Uni de l'Union européenne (Brexit)
+
+     * icône décorative Portail d’Internet
+     * icône décorative Portail de l’informatique
+     * icône décorative Portail des années 2010
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Bot_informatique&amp;oldid=198
+   060953 ».
+   Catégories :
+     * Logiciel réseau et Internet
+     * Intelligence artificielle
+     * Culture Internet
+     * Automation
+     * AggregateIQ
+
+   Catégories cachées :
+     * Article à référence souhaitée
+     * Portail:Internet/Articles liés
+     * Portail:Informatique/Articles liés
+     * Portail:Médias/Articles liés
+     * Portail:Technologies/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Années 2010/Articles liés
+     * Portail:XXIe siècle/Articles liés
+     * Portail:Époque contemporaine/Articles liés
+
+     * La dernière modification de cette page a été faite le 24 octobre
+       2022 à 06:02.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Version mobile
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+</text>
+</page> §
+</lang>

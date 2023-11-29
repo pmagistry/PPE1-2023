@@ -14,11 +14,27 @@ then
 	exit
 fi
 
+CIBLE="robots?"
+
+
 lineno=1
 while read -r URL
 do
-	response=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
+  lang=$(basename $URLS .txt)
+	response=$(curl -s -L -w "%{http_code}" -o "./aspirations/${lang}-${lineno}.html" $URL)
 	encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
-	echo -e "$lineno\t$URL\t$response\t$encoding"
+  COUNT=0
+  TEXTFILE="NA"
+  if [ $response -eq 200 ]
+  then
+    # création du dump text
+    lynx -dump -nolist ./aspirations/${lang}-${lineno}.html > ./dumps-text/${lang}-${lineno}.txt
+    TEXTFILE="../dumps-text/${lang}-${lineno}.txt"
+    COUNT=$(grep -P -i -o "$CIBLE" ./dumps-text/${lang}-${lineno}.txt | wc -l)
+    grep -i -C 3 "$CIBLE"  ./dumps-text/${lang}-${lineno}.txt > ./contextes/${lang}-${lineno}.txt  
+  fi
+
+	echo -e "$lineno\t$URL\t$response\t$encoding\t$TEXTFILE\t$COUNT" 
 	lineno=$(expr $lineno + 1)
+
 done < "$URLS"
